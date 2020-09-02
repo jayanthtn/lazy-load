@@ -1,0 +1,1 @@
+document.getElementById('container').innerHTML = "The a path is " + path;
